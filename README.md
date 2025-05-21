@@ -28,13 +28,13 @@ Voici quelques-uns de mes projets :
 🔹 **[MathQuizz](https://www.figma.com/design/RdgfOopNTIO7C7UOTFBA9Q/MathQuiz?node-id=0-1&node-type=canvas&t=3Cmz3BDxsXiwgNfd-0)** — A quiz game design created in Figma focused on math learning.  
   *Une maquette Figma d’un jeu de quiz de mathématiques.*
 
-🔹 **[To do list](https://github.com/DevinciAlex/To-do-list)** A simple and interactive to-do list app using HTML, CSS and JavaScript.
+🔹 **[To do list](https://github.com/DevinciAlex/To-do-list)** — A simple and interactive to-do list app using HTML, CSS and JavaScript.
   *Une application de liste de tâches simple et interactive en HTML, CSS et JavaScript.*
   
-🔹 **[Mood studio](https://github.com/DevinciAlex/Mood-Studio)**  — An animated carousel expressing different emotions through visuals and motion.
+🔹 **[Mood studio](https://github.com/DevinciAlex/Mood-Studio)** — An animated carousel expressing different emotions through visuals and motion.
   *Un carrousel animé qui représente différentes émotions à travers des visuels et des animations.*
   
-🔹 **[MyPortfolio](https://github.com/DevinciAlex/MyPortfolio)**  — The source code for my personal portfolio built with Next.js and deployed on [Vercel](https://my-portfolio-manceau-alexandre.vercel.app).  
+🔹 **[MyPortfolio](https://github.com/DevinciAlex/MyPortfolio)** — The source code for my personal portfolio built with Next.js and deployed on [Vercel](https://my-portfolio-manceau-alexandre.vercel.app).  
   *Le code source de mon portfolio personnel, développé avec Next.js et déployé sur [Vercel](https://my-portfolio-manceau-alexandre.vercel.app).*
 
 ---
