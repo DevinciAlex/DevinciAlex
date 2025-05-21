@@ -20,6 +20,7 @@ Here are some highlights of my work:
 
 - **Project 1:** [Morpion](https://github.com/DevinciAlex/Morpion) - A python code to play morpion.
 - **Project 2:** [MathQuizz](https://www.figma.com/design/RdgfOopNTIO7C7UOTFBA9Q/MathQuiz?node-id=0-1&node-type=canvas&t=3Cmz3BDxsXiwgNfd-0) - A Design website with figma for a Mathematique Quizz
+-  **Project 3:** [MyPorfolio](https://github.com/DevinciAlex/MyPortfolio) - The source code for my personal portfolio website.
 
 ---
 
