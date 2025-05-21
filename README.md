@@ -22,17 +22,18 @@ N’hésite pas à me contacter pour collaborer, poser une question ou simplemen
 Here are some highlights of my work:  
 Voici quelques-uns de mes projets :
 
-- 🔹 **Morpion** — A simple Tic-Tac-Toe game built with Python.  
+- 🔹 **[Morpion](https://github.com/DevinciAlex/Morpion)** — A simple Tic-Tac-Toe game built with Python.  
   *Un petit jeu de morpion développé en Python.*
 
-- 🔹 **MathQuizz** — A quiz game design created in Figma focused on math learning.  
+- 🔹 **[MathQuizz](https://www.figma.com/design/RdgfOopNTIO7C7UOTFBA9Q/MathQuiz?node-id=0-1&node-type=canvas&t=3Cmz3BDxsXiwgNfd-0)** — A quiz game design created in Figma focused on math learning.  
   *Une maquette Figma d’un jeu de quiz de mathématiques.*
 
-- 🔹 **MyPortfolio** — The source code for my personal portfolio website.  
+- 🔹 **[MyPortfolio](https://github.com/DevinciAlex/MyPortfolio)** — The source code for my personal portfolio website.  
   *Le code source de mon site portfolio.*
 
 ---
 
 **Thanks for visiting my profile! / Merci d'avoir visité mon profil !** 😊
+
 
 
